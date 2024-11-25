@@ -36,7 +36,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/background-grid.svg
+      url: /images/woman-seating-on-chair-5570846-4652128.gif
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
