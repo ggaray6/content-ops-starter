@@ -16,7 +16,7 @@ sections:
       development in the medical device industry, ensuring innovations that
       improve lives.
     actions:
-      - label: Resume Download
+      - label: Resume
         altText: ''
         url: >-
           https://sites.duke.edu/genesisgaray/files/2024/10/Genesis_Garay_ResumeA.pdf
