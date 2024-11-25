@@ -17,7 +17,7 @@ sections:
       development in the medical device industry, ensuring innovations that
       improve lives.
     actions:
-      - label: Get started
+      - label: Resume Download
         altText: ''
         url: /
         showIcon: false
