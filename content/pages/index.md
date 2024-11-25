@@ -26,7 +26,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Resume Download
         altText: ''
         url: /
         showIcon: true
