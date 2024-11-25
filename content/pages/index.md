@@ -26,15 +26,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Resume Download
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/woman-seating-on-chair-5570846-4652128.gif
       altText: Unblock your team boost your time to production preview
