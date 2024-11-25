@@ -183,7 +183,7 @@ sections:
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/fusion 360.png
+      - url: /images/contenful-logo.svg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
