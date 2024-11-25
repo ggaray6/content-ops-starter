@@ -11,9 +11,11 @@ sections:
       I am a master’s student passionate about designing innovative medical
       devices.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+
+      I’m driven by curiosity and a desire to create solutions that make a
+      meaningful difference. My ultimate goal is to contribute to research and
+      development in the medical device industry, ensuring innovations that
+      improve lives.
     actions:
       - label: Get started
         altText: ''
