@@ -11,9 +11,8 @@ sections:
       I am a master’s student passionate about designing innovative medical
       devices.
     text: >
-
       I’m driven by curiosity and a desire to create solutions that make a
-      meaningful difference. My ultimate goal is to contribute to research and
+      meaningful difference. My ultimate goal is to contribute to the
       development in the medical device industry, ensuring innovations that
       improve lives.
     actions:
