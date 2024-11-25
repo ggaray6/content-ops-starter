@@ -18,7 +18,8 @@ sections:
     actions:
       - label: Resume Download
         altText: ''
-        url: /
+        url: >-
+          https://sites.duke.edu/genesisgaray/files/2024/10/Genesis_Garay_ResumeA.pdf
         showIcon: false
         icon: arrowRight
         iconPosition: right
