@@ -180,7 +180,7 @@ sections:
       - url: /images/andriod studios.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/slicer.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/fusion 360.png
