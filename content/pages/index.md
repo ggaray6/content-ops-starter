@@ -165,7 +165,7 @@ sections:
         textAlign: center
   - subtitle: Tools I Use
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/matlab.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
