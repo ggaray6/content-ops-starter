@@ -168,7 +168,7 @@ sections:
       - url: /images/matlab.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/visual studios.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/arduino.png
