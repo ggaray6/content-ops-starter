@@ -174,7 +174,7 @@ sections:
       - url: /images/arduino.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/cadebse'.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
